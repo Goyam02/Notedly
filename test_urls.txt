@@ -1,0 +1,27 @@
+# Test URLs for LearningHub
+
+## Simple Text Files (Low Token Usage)
+
+1. **GitHub Raw Text File:**
+   https://raw.githubusercontent.com/octocat/Hello-World/master/README.md
+
+2. **Simple Markdown File:**
+   https://raw.githubusercontent.com/microsoft/vscode/main/README.md
+
+3. **Small Documentation File:**
+   https://raw.githubusercontent.com/python/cpython/main/README.rst
+
+## PDF Files (Medium Token Usage)
+
+4. **Sample PDF from Internet Archive:**
+   https://ia800504.us.archive.org/15/items/2020-01-01/2020-01-01.pdf
+
+5. **Simple PDF from GitHub:**
+   https://github.com/octocat/Hello-World/raw/master/README.pdf
+
+## Recommended for Testing (Lowest Token Usage):
+
+**Use this simple text file:**
+https://raw.githubusercontent.com/octocat/Hello-World/master/README.md
+
+This is a very small file that will use minimal tokens while still testing your document processing functionality. 
